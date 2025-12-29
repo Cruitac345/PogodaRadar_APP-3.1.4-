@@ -9,7 +9,7 @@
 
 **Архивная версия Android-приложения PogodaRadar для мониторинга погоды**
 
-[📱 Скачать APK](#) • [🚀 Актуальная версия 4.0+](#)
+[📱 Скачать APK](https://github.com/Cruitac345/PogodaRadar/releases/download/v3.1.4/PogodaRadar-3.1.4.apk) • [🚀 Актуальная версия 4.0+](https://www.rustore.ru/catalog/app/com.example.pogodaradar)
 
 </div>
 
